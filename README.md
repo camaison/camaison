@@ -2,7 +2,7 @@
 
 **`Software Developer | Electrical and Electronics Engineering Major | AI Enthusiast`**
 
-I am Cyprian Abeiku Maison, a Senior majoring in Electrical and Electronics Engineering at the Kwame Nkrumah University of Science and Technology. I am passionate about technology and the software development life cycle. My interests currently include mobile application development, game development, IoT and Artificial Intelligence. I work well in a team; I love collaborating and sharing ideas, and I embrace diversity in all forms. I am always looking to learn new things, grow my skills and contribute to my community.
+I am Cyprian Abeiku Maison, a graduate of Electrical and Electronics Engineering from the Kwame Nkrumah University of Science and Technology. I am passionate about technology and the software development life cycle. My interests currently include Process Automation, Mobile Application Development, Game Development, IoT and Artificial Intelligence. I work well in a team; I love collaborating and sharing ideas, and I embrace diversity in all forms. I am always looking to learn new things, grow my skills and contribute to my community.
 
 ---
 
