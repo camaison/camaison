@@ -1,53 +1,49 @@
-# 🏄‍♂️ Cyprian Abeiku Maison
+### Hello, I’m Cyprian 🏄‍♂️  
+I’m a **Robotic Process Automation Engineer** | **Software Developer** | **Electrical & Electronics Engineer** | **AI Enthusiast**
 
-**`Robotic Process Automation Engineer | Software Developer | Electrical and Electronics Engineer | AI Enthusiast`**
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camaison&layout=compact&theme=ayu-mirage&hide_border=true&count_private=true&langs_count=10" width="40%"/>
 
-I am Cyprian Abeiku Maison, a graduate of Electrical and Electronics Engineering from the Kwame Nkrumah University of Science and Technology. I am passionate about technology and the software development life cycle. My interests currently include Process Automation, Mobile Application Development, Game Development, IoT and Artificial Intelligence. I work well in a team; I love collaborating and sharing ideas, and I embrace diversity in all forms. I am always looking to learn new things, grow my skills and contribute to my community.
+- 🔭 I’m currently at **Stanbic Bank Ghana**, where I automate core banking processes with RPA and have built scalable RAG and Agentic Workflows using LangChain, Azure OpenAI, and Azure Cloud Services for CI/CD and deployments  
+- 🌱 I’m exploring **AI/ML** workflows with LangChain & TensorFlow, **IoT** integrations, and **blockchain** security layers for smart grids  
+- 👯 I’m open to collaborating on **Flutter**, **Python**, and **AI Agent** projects  
+- 💬 Let’s talk about **Robotics**, **AR/VR**, **Movies**, or **Math**  
+- 🛠️ **Projects**  
+  - **Legal Document Review Agent**: Multi-agent workflow in Python with LangChain & Azure OpenAI for contract processing (60% faster reviews)  
+  - **Canine AI Mobile App**: Flutter + TensorFlow app classifying 120 dog breeds (98% accuracy)  
+  - **Budget Buddy Mobile App**: Flutter + Firebase budgeting app with real-time analytics (30% savings improvement)  
+  - **Narrator Audiobook Application**: Node.js + Flutter audiobook platform with responsive web UI  
+  - **Blockchain Security Layer for Smart Grids**: Hyperledger Fabric network with Go smart contracts & REST APIs  
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/cyprianmaison) | [Email](mailto:cyprianmaison@outlook.com)  
+- ⚡ Fun fact: I enjoy exploring new technologies, comedy, and tinkering with electronics!
+
+<br /><br /><br /><br /><br />
+<div style="display:flex;justify-content: space-between">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=camaison&theme=ayu-mirage&hide_border=true" width="49.5%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=camaison&show_icons=true&include_all_commits=true&theme=ayu-mirage&hide_border=true&count_private=true" width="49.5%"/>
+</div>
 
 ---
 
-### 🧰 Languages and Tools
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img align="left" alt=".Net" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-<img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />     
-<img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-<img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
-<img align="left" alt="Dart" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-<img align="left" alt="Android" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />       
-<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />        
-<img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" /> 
-<img align="left" alt="VScode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" alt="VS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-<img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/>
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<br />
+> ## Programming Languages  
+> <img src="https://skillicons.dev/icons?i=python" />&nbsp;&nbsp;  
+> <img src="https://skillicons.dev/icons?i=dart" />&nbsp;&nbsp;  
+> <img src="https://skillicons.dev/icons?i=java" />&nbsp;&nbsp;  
+> <img src="https://skillicons.dev/icons?i=cpp" />&nbsp;&nbsp;  
+> <img src="https://skillicons.dev/icons?i=csharp" />&nbsp;&nbsp;  
+> <img src="https://skillicons.dev/icons?i=js" />&nbsp;&nbsp;  
+> <img src="https://skillicons.dev/icons?i=go" />&nbsp;&nbsp;  
+> <img src="https://skillicons.dev/icons?i=sql" />
 
-# 
-
-### 📊 Stats
-
-![Cyprian's GitHub stats](https://github-readme-stats.vercel.app/api?username=camaison&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=camaison&theme=gruvbox&border_radius=4.5) -->
-
-#
-
-### 📫 Connect with Me
-
-[<img alt="alt_text" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/cyprianmaison)
-
-#
-
-
-
-
-
-
-
-
+> ## Tools & Frameworks  
+> <img src="https://skillicons.dev/icons?i=flutter" />&nbsp;&nbsp;  
+> <img src="https://skillicons.dev/icons?i=django" />&nbsp;&nbsp;  
+> <img src="https://skillicons.dev/icons?i=flask" />&nbsp;&nbsp;  
+> <img src="https://skillicons.dev/icons?i=fastapi" />&nbsp;&nbsp;  
+> <img src="https://skillicons.dev/icons?i=springboot" />&nbsp;&nbsp;  
+> <img src="https://skillicons.dev/icons?i=nodejs" />&nbsp;&nbsp;  
+> <img src="https://skillicons.dev/icons?i=aws" />&nbsp;&nbsp;  
+> <img src="https://skillicons.dev/icons?i=azure" />&nbsp;&nbsp;  
+> <img src="https://skillicons.dev/icons?i=docker" />&nbsp;&nbsp;  
+> <img src="https://skillicons.dev/icons?i=selenium" />&nbsp;&nbsp;  
+> <img src="https://skillicons.dev/icons?i=langchain" />&nbsp;&nbsp;  
+> <img src="https://skillicons.dev/icons?i=tensorflow" />
