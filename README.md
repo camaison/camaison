@@ -1,5 +1,5 @@
 ### Hello, I’m Cyprian 🏄‍♂️  
-I’m a **Robotic Process Automation Engineer** | **Software Developer** | **Electrical & Electronics Engineer** | **AI Enthusiast**
+I’m a **Software Engineer** | **Robotic Process Automation Engineer** | **Electrical & Electronics Engineer** | **AI Enthusiast**
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camaison&layout=compact&theme=ayu-mirage&hide_border=true&count_private=true&langs_count=10" width="40%"/>
 
