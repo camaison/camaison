@@ -4,9 +4,9 @@ I’m a **Robotic Process Automation Engineer** | **Software Developer** | **Ele
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camaison&layout=compact&theme=ayu-mirage&hide_border=true&count_private=true&langs_count=10" width="40%"/>
 
 - 🔭 I’m currently at **Stanbic Bank Ghana**, where I automate core banking processes with RPA and have built scalable RAG and Agentic Workflows using LangChain, Azure OpenAI, and Azure Cloud Services for CI/CD and deployments  
-- 🌱 I’m exploring **AI/ML** workflows with LangChain & TensorFlow, **IoT** integrations, and **blockchain** security layers for smart grids  
+- 🌱 I’m exploring **AI/ML** workflows with LangChain, **Backend Devlopment** with **Java Springboot**, **IoT** integrations, and **blockchain** security layers for smart grids  
 - 👯 I’m open to collaborating on **Flutter**, **Python**, and **AI Agent** projects  
-- 💬 Let’s talk about **Robotics**, **AR/VR**, **Movies**, or **Math**  
+- 💬 Let’s talk about **Robotics**, **AI**, **Movies**, or **Self Development**  
 - 🛠️ **Projects**  
   - **Legal Document Review Agent**: Multi-agent workflow in Python with LangChain & Azure OpenAI for contract processing (60% faster reviews)  
   - **Canine AI Mobile App**: Flutter + TensorFlow app classifying 120 dog breeds (98% accuracy)  
